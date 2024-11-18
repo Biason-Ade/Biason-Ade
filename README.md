@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Biason-Ade
-- 👀 I’m interested in wrb development 
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT 
-- 💞️ I’m looking to collaborate on any project
+- 👀 I’m interested in Data Science, Data Analytics and Machine Learning
+- 🌱 I’m currently learning Data Science skills and Machine Learning Algorithms
+- 💞️ I’m looking for an internship in either Data Science, Data Analytics and Machine Learning
 - 📫 How to reach me Email address: biasonade@gmail.com
 
 <!---
